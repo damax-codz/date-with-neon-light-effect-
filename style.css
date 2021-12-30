@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.time{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 30vh;
+    color: #111;
+    background: #39ff14;
+    box-shadow: 0 0 50px #39ff14;
+    width: 400px;
+    border-radius: 20px;
+}
+#po{
+    font-size: 70px;
+    font-weight: bolder;
+}
+#pop{
+    font-size:20px;
+    margin-top: 20px;
+}
+
+
+    *{
+        margin: 0%;
+        padding:0 ;
+    }

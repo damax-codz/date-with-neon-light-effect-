@@ -7,7 +7,7 @@ ordinary web date display project
 - i learnt the trick of making a neon light effect with css effects 
 
 
-##HTML
+## HTML
 ```
  <div class="time">
         <p id="po"></p>
@@ -16,7 +16,7 @@ ordinary web date display project
 
 ```
 
-##CSS
+## CSS
 ```
 .time{
     text-align: center;
